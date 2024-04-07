@@ -1,1 +1,2 @@
-print("Git is awesome!")
+user_input = input("What is your name? ")
+print("My name is: "+ user_input)
